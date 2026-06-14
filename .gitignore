@@ -1,0 +1,6 @@
+llama3-8b-instruct/
+bge-large-v5/
+reranker/
+
+*.bin
+*.safetensors
